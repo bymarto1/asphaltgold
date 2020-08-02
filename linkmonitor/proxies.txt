@@ -1,0 +1,5 @@
+in.torguardvpnaccess.com:6060:396hz4ce74kz866:8zAdDN7g3dC8D6f
+ice.torguardvpnaccess.com:6060:396hz4ce74kz866:8zAdDN7g3dC8D6f
+hg.torguardvpnaccess.com:6060:396hz4ce74kz866:8zAdDN7g3dC8D6f
+gre.torguardvpnaccess.com:6060:396hz4ce74kz866:8zAdDN7g3dC8D6f
+fr.torguardvpnaccess.com:6060:396hz4ce74kz866:8zAdDN7g3dC8D6f
